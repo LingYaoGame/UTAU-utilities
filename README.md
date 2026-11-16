@@ -1,2 +1,2 @@
 # UTAU-utilities
-some utau tools.
+Some utau tools.They will be helpful for you in making a UTAU voicebank.
